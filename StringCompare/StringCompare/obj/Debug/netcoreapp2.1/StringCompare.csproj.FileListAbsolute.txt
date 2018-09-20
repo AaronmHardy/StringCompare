@@ -1,0 +1,11 @@
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.deps.json
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.runtimeconfig.json
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.runtimeconfig.dev.json
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.dll
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.pdb
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.csprojAssemblyReference.cache
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.csproj.CoreCompileInputs.cache
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.AssemblyInfoInputs.cache
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.AssemblyInfo.cs
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.dll
+C:\Users\AaronH\source\repos\StringCompare\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.pdb
